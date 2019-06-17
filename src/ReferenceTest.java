@@ -30,5 +30,6 @@ public class ReferenceTest {
         res = weakHashMap.containsValue(dummyMeta) ? "dummyMeta still there" : "dummyMeta cleared!";
         System.out.println(res);
         System.out.println("sqush");
+        System.out.println("sqasherino");
     }
 }
