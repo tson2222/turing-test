@@ -31,5 +31,6 @@ public class ReferenceTest {
         System.out.println(res);
         System.out.println("sqush");
         System.out.println("sqasherino");
+        System.out.println("dev test");
     }
 }
