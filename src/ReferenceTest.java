@@ -33,5 +33,8 @@ public class ReferenceTest {
         System.out.println("sqasherino");
         System.out.println("dev test");
         System.out.println("branching out");
+        System.out.println("rev1");
+        System.out.println("rev4");
+
     }
 }
